@@ -4,7 +4,7 @@
 
 ## 🔗 Live Project
 
-            https:
+            https://beyond-chats-seven.vercel.app/
 
 ---
 ---
