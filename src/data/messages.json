@@ -1,0 +1,84 @@
+{
+    "1": [
+        {
+            "id": "m1",
+            "from": "user",
+            "text": "Can you help me with my order?",
+            "status": "delivered"
+        },
+        {
+            "id": "m2",
+            "from": "me",
+            "text": "Of course, John! Could you please provide your order ID?",
+            "status": "sent"
+        },
+        {
+            "id": "m3",
+            "from": "user",
+            "text": "Order ID is 123456.",
+            "status": "delivered"
+        }
+    ],
+    "2": [
+        {
+            "id": "m4",
+            "from": "user",
+            "text": "Hi, I have a payment issue.",
+            "status": "delivered"
+        },
+        {
+            "id": "m5",
+            "from": "me",
+            "text": "Hi Jane, what payment method did you use?",
+            "status": "sent"
+        },
+        {
+            "id": "m6",
+            "from": "user",
+            "text": "Credit card. It keeps failing.",
+            "status": "delivered"
+        }
+    ],
+    "3": [
+        {
+            "id": "m7",
+            "from": "user",
+            "text": "Where is my shipment?",
+            "status": "delivered"
+        },
+        {
+            "id": "m8",
+            "from": "me",
+            "text": "Hi Carlos, your shipment is on the way and should arrive by Friday.",
+            "status": "sent"
+        }
+    ],
+    "4": [
+        {
+            "id": "m9",
+            "from": "user",
+            "text": "I received the wrong item. How can I get a refund?",
+            "status": "delivered"
+        },
+        {
+            "id": "m10",
+            "from": "me",
+            "text": "Sorry for the inconvenience, Emily. Please share a photo of the item.",
+            "status": "sent"
+        }
+    ],
+    "5": [
+        {
+            "id": "m11",
+            "from": "user",
+            "text": "Hi, I need a copy of my invoice.",
+            "status": "delivered"
+        },
+        {
+            "id": "m12",
+            "from": "me",
+            "text": "Sure Priya, can you tell me the order number?",
+            "status": "sent"
+        }
+    ]
+}

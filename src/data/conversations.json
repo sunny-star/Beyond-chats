@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "initials": "JD",
+        "snippet": "Can you help me with my order?",
+        "status": "online",
+        "time": "2m"
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "initials": "JS",
+        "snippet": "Payment issue",
+        "status": "offline",
+        "time": "5m"
+    },
+    {
+        "id": "3",
+        "name": "Carlos Rivera",
+        "initials": "CR",
+        "snippet": "Where is my shipment?",
+        "status": "online",
+        "time": "8m"
+    },
+    {
+        "id": "4",
+        "name": "Emily Zhang",
+        "initials": "EZ",
+        "snippet": "Refund for a wrong item",
+        "status": "away",
+        "time": "11m"
+    },
+    {
+        "id": "5",
+        "name": "Priya Patel",
+        "initials": "PP",
+        "snippet": "Need invoice copy",
+        "status": "online",
+        "time": "15m"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "a1",
+        "title": "Getting a refund",
+        "icon": "📰",
+        "type": "Public article",
+        "author": "Amy Adams",
+        "date": "1d ago",
+        "content": "We understand that sometimes a purchase may not meet your expectations, and you may need to request a refund. This guide outlines the simple steps to help you navigate the refund process and ensure a smooth resolution to your concern."
+    },
+    {
+        "id": "a2",
+        "title": "Refund for an order placed by mistake",
+        "icon": "📄",
+        "type": "Public article",
+        "author": "Support",
+        "date": "2d ago",
+        "content": "If you placed an order by mistake, follow these steps to request a refund..."
+    },
+    {
+        "id": "a3",
+        "title": "Refund for an unwanted gift",
+        "icon": "🎁",
+        "type": "Public article",
+        "author": "Support",
+        "date": "3d ago",
+        "content": "Unwanted gifts can be returned for a refund if they meet our return policy..."
+    }
+]
